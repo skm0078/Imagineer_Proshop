@@ -1,0 +1,5 @@
+Auto rename tag
+bracket pair colorizer
+prettier
+javascipt snippets
+es6/es7 ... snippets
