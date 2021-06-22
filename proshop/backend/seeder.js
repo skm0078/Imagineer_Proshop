@@ -12,6 +12,8 @@ dotenv.config({ path: "../.env" })
 
 connectDB()
 
+// These will replace any data at any point in the db
+
 const importData = async () => {
   try {
     await Order.deleteMany()
